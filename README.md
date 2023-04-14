@@ -24,9 +24,9 @@ python scripts/image_sample_stable_diffusion.py --prompt="a photo of lion, front
 
 If you find it useful for your work, please cite:
 ```
-@article{armandpour2023reimagine,
+@article{armandpour2023re,
   title={Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond},
-  author={Mohammadreza Armandpour and Huangjie Zheng and Ali Sadeghian and Amir Sadeghian and Mingyuan Zhou},
+  author={Armandpour, Mohammadreza and Zheng, Huangjie and Sadeghian, Ali and Sadeghian, Amir and Zhou, Mingyuan},
   journal={arXiv preprint arXiv:2304.04968},
   year={2023}
 }
