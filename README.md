@@ -2,12 +2,8 @@
 ### [Project Page](https://perp-neg.github.io/) | [Paper](https://arxiv.org/abs/2304.04968) | [Huggingface][huggingface-demo]
 [![][huggingface]][huggingface-demo]
 
-<hr>
 
-
-[colab]: <https://colab.research.google.com/assets/colab-badge.svg>
 [huggingface]: <https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue>
-[composable-demo]: <https://colab.research.google.com/github/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch/blob/main/notebooks/demo.ipynb>
 [huggingface-demo]: <https://huggingface.co/spaces/Shuang59/Composable-Diffusion>
 
 # PerpNeg-StableDiffusion
