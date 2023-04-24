@@ -1,7 +1,29 @@
-### [Project Page](https://Perp-Neg.github.io) | [Paper](https://arxiv.org/abs/2304.04968) | [Huggingface][huggingface-demo]
-[![][huggingface]][huggingface-demo]
+
+### [Project Page](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/) | [Paper](https://arxiv.org/pdf/2206.01714.pdf) | [Google Colab][composable-demo] | [Huggingface][huggingface-demo]
+[![][colab]][composable-demo] [![][huggingface]][huggingface-demo]
+
+<hr>
+
+This is the official codebase for **Compositional Visual Generation with Composable Diffusion Models**.
+
+[Compositional Visual Generation with Composable Diffusion Models](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)
+    <br>
+    [Nan Liu](https://nanliu.io) <sup>1*</sup>,
+    [Shuang Li](https://people.csail.mit.edu/lishuang) <sup>2*</sup>,
+    [Yilun Du](https://yilundu.github.io) <sup>2*</sup>,
+    [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) <sup>2</sup>,
+    [Joshua B. Tenenbaum](https://mitibmwatsonailab.mit.edu/people/joshua-tenenbaum/) <sup>2</sup>
+    <br>
+    <sup>*</sup> Equal Contributation
+    <br>
+    <sup>1</sup>UIUC, <sup>2</sup>MIT CSAIL
+    <br>
+    [ECCV 2022](https://arxiv.org/pdf/2206.01714.pdf) / [MIT News](https://news.mit.edu/2022/ai-system-makes-models-like-dall-e-2-more-creative-0908) / [MIT CSAIL News](https://www.csail.mit.edu/news/ai-system-makes-models-dall-e-2-more-creative)
+
+[colab]: <https://colab.research.google.com/assets/colab-badge.svg>
 [huggingface]: <https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue>
-[huggingface-demo]: <https://huggingface.co/spaces/rezaarmand/Perp-Neg>
+[composable-demo]: <https://colab.research.google.com/github/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch/blob/main/notebooks/demo.ipynb>
+[huggingface-demo]: <https://huggingface.co/spaces/Shuang59/Composable-Diffusion>
 
 # PerpNeg-StableDiffusion
 
