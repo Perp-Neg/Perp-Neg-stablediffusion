@@ -1,7 +1,8 @@
 ### [Project Page](https://Perp-Neg.github.io) | [Paper](https://arxiv.org/abs/2304.04968) | [Huggingface][huggingface-demo]
 [![][huggingface]][huggingface-demo]
-
+<hr>
 [huggingface-demo]: <https://huggingface.co/spaces/rezaarmand/Perp-Neg>
+
 # PerpNeg-StableDiffusion
 
 This is the repository for using Perp-Neg sampling with Stable Diffusion model, as presented in [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond.](https://Perp-Neg.github.io).
