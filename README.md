@@ -1,6 +1,6 @@
 
-### [Project Page](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/) | [Paper](https://arxiv.org/pdf/2206.01714.pdf) | [Google Colab][composable-demo] | [Huggingface][huggingface-demo]
-[![][colab]][composable-demo] [![][huggingface]][huggingface-demo]
+### [Project Page](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/) | [Paper](https://arxiv.org/pdf/2206.01714.pdf) | [Huggingface][huggingface-demo]
+[![][huggingface]][huggingface-demo]
 
 <hr>
 
