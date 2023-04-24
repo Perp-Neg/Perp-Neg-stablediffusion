@@ -1,6 +1,6 @@
 ### [Project Page](https://Perp-Neg.github.io) | [Paper](https://arxiv.org/abs/2304.04968) | [Huggingface][huggingface-demo]
 [![][huggingface]][huggingface-demo]
-<hr>
+[huggingface]: <https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue>
 [huggingface-demo]: <https://huggingface.co/spaces/rezaarmand/Perp-Neg>
 
 # PerpNeg-StableDiffusion
