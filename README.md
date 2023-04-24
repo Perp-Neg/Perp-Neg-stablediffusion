@@ -1,5 +1,5 @@
 
-### [Project Page](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/) | [Paper](https://arxiv.org/pdf/2206.01714.pdf) | [Huggingface][huggingface-demo]
+### [Project Page](https://perp-neg.github.io/) | [Paper](https://arxiv.org/abs/2304.04968) | [Huggingface][huggingface-demo]
 [![][huggingface]][huggingface-demo]
 
 <hr>
