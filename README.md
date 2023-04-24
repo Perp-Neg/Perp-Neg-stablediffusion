@@ -4,9 +4,9 @@
 
 
 [huggingface]: <https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue>
-[huggingface-demo]: <https://huggingface.co/spaces/Shuang59/Composable-Diffusion>
+[huggingface-demo]: <https://huggingface.co/spaces/rezaarmand/Perp-Neg>
 
-# PerpNeg-StableDiffusion
+# Perp-Neg Stable Diffusion
 
 This is the repository for using Perp-Neg sampling with Stable Diffusion model, as presented in [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond.](https://Perp-Neg.github.io).
 
