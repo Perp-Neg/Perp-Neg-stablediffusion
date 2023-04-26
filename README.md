@@ -29,7 +29,7 @@ python scripts/image_sample_stable_diffusion.py --prompt="a boy wearing sunglass
 ```
 python scripts/image_sample_stable_diffusion.py --prompt="a photo of lion, front view | a photo of lion, side view" --weights="1|-1.5|-1.5" --pipeline='rotation_perpneg' --num_images=1
 ```
-**PerpNeg-Stable DreamFusion
+**PerpNeg-Stable DreamFusion**
 We will the provide the code soon.
 
 If you find it useful for your work, please cite:
