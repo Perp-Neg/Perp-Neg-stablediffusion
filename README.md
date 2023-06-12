@@ -6,7 +6,7 @@
 [huggingface]: <https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue>
 [huggingface-demo]: <https://huggingface.co/spaces/rezaarmand/Perp-Neg>
 
-![Video Demo](https://github.com/Perp-Neg/Perp-Neg-stablediffusion/assets/tiger.mp4)
+![Video Demo](https://github.com/Perp-Neg/Perp-Neg-stablediffusion/blob/main/assets/tiger.mp4)
 
 [![Alt Text](https://img.youtube.com/vi/3ofsPVYkMp0/0.jpg)](https://www.youtube.com/watch?v=3ofsPVYkMp0?autoplay=1)
 # Perp-Neg Stable Diffusion
